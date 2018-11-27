@@ -1,0 +1,5 @@
+{   
+    "newHomePage":"https://openweathermap.org/",
+    "homePageTitle":"Current weather and forecasts in your city",
+    "searchButton":"[placeholder='Your city name']"
+}

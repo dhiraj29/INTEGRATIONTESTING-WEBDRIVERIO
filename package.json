@@ -1,0 +1,20 @@
+{
+  "name": "testwdio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/wdio"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "webdriverio": "^4.11.0"
+  },
+  "devDependencies": {
+    "wdio-junit-reporter": "^0.3.1",
+    "wdio-mocha-framework": "^0.5.12",
+    "wdio-selenium-standalone-service": "0.0.8"
+  }
+}
